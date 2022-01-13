@@ -13,7 +13,7 @@ chrome.runtime.sendMessage({todo: "showPageAction"});
       label_DIV.classList.add("p-2");
       var label = document.createElement("h3");
       label_DIV.appendChild(label);
-      label.innerHTML = 'Hi, Dev Kumar Mahanty';
+      label.innerHTML = 'Hi, Vivek Kumar';
       var Dropdown = document.createElement("select");
       var dpdwn_DIV = document.createElement("div");
       dpdwn_DIV.appendChild(Dropdown);
