@@ -1,0 +1,612 @@
+[
+ {
+  "vendor": "Accurate springs Pvt. Ltd.",
+  "vendorCode": 250091,
+  "password": "aspl1222"
+ },
+ {
+  "vendor": "Ajit industries Pvt. Ltd.",
+  "vendorCode": 250093,
+  "password": "sub@321"
+ },
+ {
+  "vendor": "Aldica technologies Pvt. Ltd.",
+  "vendorCode": 250029,
+  "password": "Aldica531"
+ },
+ {
+  "vendor": "Alpha founders Pvt. Ltd.",
+  "vendorCode": 250096,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Amar auto agency",
+  "vendorCode": 250339,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Amzen machines Pvt. Ltd.",
+  "vendorCode": 250097,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Applied engineering & technology",
+  "vendorCode": 250098,
+  "password": "null"
+ },
+ {
+  "vendor": "Aravind auto spares",
+  "vendorCode": 250099,
+  "password": "null"
+ },
+ {
+  "vendor": "Auro plastic injection moulders Pvt.",
+  "vendorCode": 250103,
+  "password": "Apimpl@453"
+ },
+ {
+  "vendor": "Balu auto components Pvt. limite",
+  "vendorCode": 250105,
+  "password": "Baluauto123@"
+ },
+ {
+  "vendor": "Banco gaskets [india] Ltd.",
+  "vendorCode": 250106,
+  "password": "banco123"
+ },
+ {
+  "vendor": "BASF india Ltd.",
+  "vendorCode": 250061,
+  "password": 250109
+ },
+ {
+  "vendor": "BSA corporation Ltd.",
+  "vendorCode": 250109,
+  "password": "null"
+ },
+ {
+  "vendor": "Cascy forge products",
+  "vendorCode": 250110,
+  "password": "Cascy*21%"
+ },
+ {
+  "vendor": "Cast & alloys",
+  "vendorCode": 250111,
+  "password": "Init123456"
+ },
+ {
+  "vendor": "Coventry coilomatic [haryana] Ltd.",
+  "vendorCode": 250114,
+  "password": "C205@dmin"
+ },
+ {
+  "vendor": "Devendra autocom Pvt. Ltd.",
+  "vendorCode": 250117,
+  "password": "null"
+ },
+ {
+  "vendor": "Devi turnomatics Pvt. Ltd.",
+  "vendorCode": 250118,
+  "password": "Devi@7777"
+ },
+ {
+  "vendor": "Dhee auto engineering",
+  "vendorCode": 250071,
+  "password": "null"
+ },
+ {
+  "vendor": "El forge Ltd.",
+  "vendorCode": 250121,
+  "password": "null"
+ },
+ {
+  "vendor": "Elan auto india Ltd.",
+  "vendorCode": 250122,
+  "password": "HARIOM@1"
+ },
+ {
+  "vendor": "Electromags unit",
+  "vendorCode": 250123,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Enkey engineering works",
+  "vendorCode": 250126,
+  "password": "vendorlogin"
+ },
+ {
+  "vendor": "Excel plast",
+  "vendorCode": 250127,
+  "password": "Excelwabco21"
+ },
+ {
+  "vendor": "Excel process Pvt. Ltd.",
+  "vendorCode": 250128,
+  "password": 250128
+ },
+ {
+  "vendor": "FI auto components Pvt. Ltd.",
+  "vendorCode": 250130,
+  "password": "null"
+ },
+ {
+  "vendor": "Focus diecast Pvt. Ltd.",
+  "vendorCode": 250131,
+  "password": "FDPL2020##"
+ },
+ {
+  "vendor": "Freudenberg-nok Pvt. Ltd.",
+  "vendorCode": 250133,
+  "password": "null"
+ },
+ {
+  "vendor": "Geoff poly technologies",
+  "vendorCode": 250137,
+  "password": "Geoff1234"
+ },
+ {
+  "vendor": "Gravitech inc",
+  "vendorCode": 250142,
+  "password": "gra1234"
+ },
+ {
+  "vendor": "Helvoet rubber and plastic technolo",
+  "vendorCode": 250144,
+  "password": "Init123"
+ },
+ {
+  "vendor": "Hifit industries",
+  "vendorCode": 250146,
+  "password": "null"
+ },
+ {
+  "vendor": "Highco engineers Pvt. Ltd.",
+  "vendorCode": 250147,
+  "password": "null"
+ },
+ {
+  "vendor": "Hi-tech gears Ltd.",
+  "vendorCode": 250064,
+  "password": "null"
+ },
+ {
+  "vendor": "Hoerbiger india precision technolog",
+  "vendorCode": 250150,
+  "password": "HIPT@2021"
+ },
+ {
+  "vendor": "Hoerbiger india Pvt. Ltd.",
+  "vendorCode": 250151,
+  "password": "hipl2021"
+ },
+ {
+  "vendor": "Indoshell mould Ltd.",
+  "vendorCode": 250156,
+  "password": "null"
+ },
+ {
+  "vendor": "Jagadamba auto components Ltd.",
+  "vendorCode": 250160,
+  "password": "Jal1234"
+ },
+ {
+  "vendor": "Jainidhi automation",
+  "vendorCode": 250161,
+  "password": "jna123"
+ },
+ {
+  "vendor": "Janani mouldings Pvt. Ltd.",
+  "vendorCode": 250162,
+  "password": "jmpl@Ltd."
+ },
+ {
+  "vendor": "Jayashree polymers Pvt. Ltd.",
+  "vendorCode": 250163,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Jmt auto Ltd.",
+  "vendorCode": 250369,
+  "password": "null"
+ },
+ {
+  "vendor": "K r enterprise",
+  "vendorCode": 250164,
+  "password": "gopi1963"
+ },
+ {
+  "vendor": "Kalyani technoforge Ltd.",
+  "vendorCode": 250165,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Kern-liebers [india] Pvt. limite",
+  "vendorCode": 250167,
+  "password": "null"
+ },
+ {
+  "vendor": "Kikuwa india Pvt. Ltd.",
+  "vendorCode": 250168,
+  "password": "wabco@123"
+ },
+ {
+  "vendor": "Klipco Pvt. Ltd.",
+  "vendorCode": 250170,
+  "password": "klipco@123"
+ },
+ {
+  "vendor": "Koyas fasteners Pvt. Ltd.",
+  "vendorCode": 250171,
+  "password": "Koyas1234"
+ },
+ {
+  "vendor": "KSPG automotive india Pvt. Ltd.",
+  "vendorCode": 250172,
+  "password": "null"
+ },
+ {
+  "vendor": "Kumar industries",
+  "vendorCode": 250173,
+  "password": "Ki$6808"
+ },
+ {
+  "vendor": "LPS bossard Pvt. Ltd.",
+  "vendorCode": 250175,
+  "password": "lps"
+ },
+ {
+  "vendor": "M R S BEARINGS Pvt. Ltd.",
+  "vendorCode": 250368,
+  "password": "null"
+ },
+ {
+  "vendor": "M. K. Engineering works",
+  "vendorCode": 250177,
+  "password": "Init456"
+ },
+ {
+  "vendor": "Macurex sensors Pvt. Ltd.",
+  "vendorCode": 250179,
+  "password": "Init1235"
+ },
+ {
+  "vendor": "Maraica industries chennai",
+  "vendorCode": 250180,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Maraica industries kolkata",
+  "vendorCode": 250181,
+  "password": "maraica@123"
+ },
+ {
+  "vendor": "Mega rubber technologies Pvt. Ltd.",
+  "vendorCode": 250184,
+  "password": "Megarubber@123"
+ },
+ {
+  "vendor": "Mesha engineering industry Pvt. Ltd.",
+  "vendorCode": 250185,
+  "password": "29aabcm1986"
+ },
+ {
+  "vendor": "Minda industries Ltd.",
+  "vendorCode": 250050,
+  "password": "mil@123"
+ },
+ {
+  "vendor": "Mubea auomotive components india",
+  "vendorCode": 250187,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "MK auto components india Ltd.",
+  "vendorCode": 250186,
+  "password": "mkauto1234"
+ },
+ {
+  "vendor": "Multitech auto Ltd.",
+  "vendorCode": 250042,
+  "password": "Mapl@1234"
+ },
+ {
+  "vendor": "Nikki india fuel systems Pvt. li",
+  "vendorCode": 250189,
+  "password": "nikki123"
+ },
+ {
+  "vendor": "Om sakthi industries",
+  "vendorCode": 250192,
+  "password": "Osi1234$"
+ },
+ {
+  "vendor": "Padma mines and minerals",
+  "vendorCode": 250341,
+  "password": "Init1234"
+ },
+ {
+  "vendor": "Pennar industries Ltd.",
+  "vendorCode": 250195,
+  "password": "Pnn0r@2018"
+ },
+ {
+  "vendor": "Perfect engineering",
+  "vendorCode": 250196,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Perfect mettcast Ltd.",
+  "vendorCode": 250197,
+  "password": "Sales@123"
+ },
+ {
+  "vendor": "Polyhose india Pvt. Ltd.",
+  "vendorCode": 250350,
+  "password": "Polyhose@1234"
+ },
+ {
+  "vendor": "Polyhose india Pvt. Ltd.-unit-iv",
+  "vendorCode": 250062,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Prem industries",
+  "vendorCode": 250199,
+  "password": 250199
+ },
+ {
+  "vendor": "Premier industrial plastics",
+  "vendorCode": 250056,
+  "password": "Init1234"
+ },
+ {
+  "vendor": "Ragam metal products [P] Ltd.",
+  "vendorCode": 250202,
+  "password": "null"
+ },
+ {
+  "vendor": "Raja engineering works",
+  "vendorCode": 250203,
+  "password": "null"
+ },
+ {
+  "vendor": "Reyaansh industrial plastics",
+  "vendorCode": 250081,
+  "password": "yonex@2021"
+ },
+ {
+  "vendor": "Rialto enterprises Pvt. Ltd.",
+  "vendorCode": 250210,
+  "password": "Rialto2018"
+ },
+ {
+  "vendor": "Rockman industries Ltd.",
+  "vendorCode": 250212,
+  "password": "null"
+ },
+ {
+  "vendor": "Roop polymers Ltd. unit-iii",
+  "vendorCode": 250214,
+  "password": "Roop1234"
+ },
+ {
+  "vendor": "Roop polymers Ltd. unit-vi",
+  "vendorCode": 250217,
+  "password": "Roop123"
+ },
+ {
+  "vendor": "Samvardhana motherson auto componen",
+  "vendorCode": 250218,
+  "password": "smac123"
+ },
+ {
+  "vendor": "Sanmina-sci india Pvt. Ltd.",
+  "vendorCode": 250311,
+  "password": "null"
+ },
+ {
+  "vendor": "Sarva sakthi enterprises",
+  "vendorCode": 250221,
+  "password": "Sekar1989"
+ },
+ {
+  "vendor": "Satyam auto components Pvt. Ltd.",
+  "vendorCode": 250223,
+  "password": "satyam@123"
+ },
+ {
+  "vendor": "Shri pavithra auto product",
+  "vendorCode": 250229,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Shriram foundry Pvt. Ltd.",
+  "vendorCode": 250230,
+  "password": "null"
+ },
+ {
+  "vendor": "Shriram pistons and rings Ltd.",
+  "vendorCode": 250337,
+  "password": "null"
+ },
+ {
+  "vendor": "Shriram pistons and rings Ltd.",
+  "vendorCode": 250370,
+  "password": "null"
+ },
+ {
+  "vendor": "Simmonds marshall Ltd.",
+  "vendorCode": 250233,
+  "password": "null"
+ },
+ {
+  "vendor": "Sophia automotive [P] Ltd.",
+  "vendorCode": 250235,
+  "password": "null"
+ },
+ {
+  "vendor": "Sree krishna labels & solutions Pvt.",
+  "vendorCode": 250239,
+  "password": "null"
+ },
+ {
+  "vendor": "Sri hari industries",
+  "vendorCode": 250242,
+  "password": "srihari2021"
+ },
+ {
+  "vendor": "Sri vari alloys",
+  "vendorCode": 250035,
+  "password": "null"
+ },
+ {
+  "vendor": "Sri vigneshwara engineering",
+  "vendorCode": 250041,
+  "password": "svew2020"
+ },
+ {
+  "vendor": "Sri vijayalakshmi & co",
+  "vendorCode": 250055,
+  "password": "Sriv@123"
+ },
+ {
+  "vendor": "Stanley engineered fastening india",
+  "vendorCode": 250248,
+  "password": "Stanley1234"
+ },
+ {
+  "vendor": "Star circlips & engineering Ltd.",
+  "vendorCode": 250249,
+  "password": "star@1200"
+ },
+ {
+  "vendor": "Stud india",
+  "vendorCode": 250251,
+  "password": "null"
+ },
+ {
+  "vendor": "Stumpp schuele & somappa springs",
+  "vendorCode": 250252,
+  "password": "Ssss@1234"
+ },
+ {
+  "vendor": "Stumpp schuele & somappa springs",
+  "vendorCode": 250253,
+  "password": "Ssss@1234"
+ },
+ {
+  "vendor": "Sudisa enterprises Pvt. Ltd.",
+  "vendorCode": 250254,
+  "password": "null"
+ },
+ {
+  "vendor": "Suja shoei industries [p] Ltd.",
+  "vendorCode": 250255,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Sundaram industries Pvt. Ltd.",
+  "vendorCode": 250257,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Sundaram-clayton Ltd.",
+  "vendorCode": 250256,
+  "password": "Sclhosur"
+ },
+ {
+  "vendor": "Sundaram-clayton Ltd.dcd",
+  "vendorCode": 250259,
+  "password": "Sclpadi"
+ },
+ {
+  "vendor": "Sundram fasteners Ltd.",
+  "vendorCode": 250371,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Sunrise corrugated india Pvt. Ltd.",
+  "vendorCode": 250367,
+  "password": "Sunrise123"
+ },
+ {
+  "vendor": "Surface treatment systems",
+  "vendorCode": 250261,
+  "password": "Sts@9677"
+ },
+ {
+  "vendor": "Synnova gears & transmission Pvt. L",
+  "vendorCode": 250262,
+  "password": "null"
+ },
+ {
+  "vendor": "Sysmac engineers",
+  "vendorCode": 250263,
+  "password": "Narayana!@#123"
+ },
+ {
+  "vendor": "Technoedge",
+  "vendorCode": 250266,
+  "password": "Mbg@1960"
+ },
+ {
+  "vendor": "Tvs.Argomm Pvt. Ltd.",
+  "vendorCode": 250348,
+  "password": "tvsar@2021"
+ },
+ {
+  "vendor": "Umac auto components Pvt. Ltd.",
+  "vendorCode": 250272,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Universal precision screws",
+  "vendorCode": 250309,
+  "password": "ups@123"
+ },
+ {
+  "vendor": "Venus manufacturing company",
+  "vendorCode": 250273,
+  "password": "2@venuspins"
+ },
+ {
+  "vendor": "Versatile alucast Pvt. Ltd.",
+  "vendorCode": 250274,
+  "password": "VAPL@2021"
+ },
+ {
+  "vendor": "Vidushi Wires Pvt. Ltd.",
+  "vendorCode": 250335,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Vijayshree autocom Ltd.",
+  "vendorCode": 250306,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Voss exotech automotive Pvt. Ltd.",
+  "vendorCode": 250275,
+  "password": "Init12345"
+ },
+ {
+  "vendor": "Willtech metal former",
+  "vendorCode": 250276,
+  "password": "null"
+ },
+ {
+  "vendor": "Wuerth industrial services",
+  "vendorCode": 250305,
+  "password": "wuerth"
+ },
+ {
+  "vendor": "Yesodha engineering services",
+  "vendorCode": 250279,
+  "password": "yesodha@143"
+ },
+ {
+  "vendor": "Zenith industrial products",
+  "vendorCode": 250280,
+  "password": "zenith2021"
+ }
+]
