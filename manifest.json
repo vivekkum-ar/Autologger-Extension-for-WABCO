@@ -11,7 +11,7 @@
     },
     "content_scripts": [
         {
-            "matches": ["https://*.wabco-auto.com/Login*"],
+            "matches": ["https://*.wabco-auto.com/","https://*.wabco-auto.com/Login*","https://*.wabco-auto.com/login*"],
             "js": ["jquery-3.6.0.js", "content.js", "bootstrap.min.js"],
             "css":["bootstrap.min.css","style.css"]
         }
