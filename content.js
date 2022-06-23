@@ -1,4 +1,6 @@
 // #VivekKumar
+//Takes variables from file.js
+
 chrome.runtime.sendMessage({todo: "showPageAction"});
 (function () {
     // chrome.storage.sync.set({rcountLocal: 0}, function() {
