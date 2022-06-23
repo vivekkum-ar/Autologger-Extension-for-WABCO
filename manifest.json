@@ -1,7 +1,7 @@
 {
     "name": "LoggerByVivek",
     "description": "Dear user, This extension logs a vendor code automatically. One just needs to select the vendor from the dropdown menu.",
-    "version": "1.0",
+    "version": "2.0",
     "manifest_version": 3,
     "background": {
         "service_worker": "background.js"
@@ -11,9 +11,33 @@
     },
     "content_scripts": [
         {
-            "matches": ["https://*.wabco-auto.com/","https://*.wabco-auto.com/Login*","https://*.wabco-auto.com/login*"],
-            "js": ["jquery-3.6.0.js", "content.js", "bootstrap.min.js"],
-            "css":["bootstrap.min.css","style.css"]
+            "matches": [
+                "https://*.wabco-auto.com/Login*",
+                "https://*.wabco-auto.com/login*"
+            ],
+            "js": [
+                "file.js",
+                "jquery-3.6.0.js",
+                "content.js",
+                "bootstrap.min.js"
+            ],
+            "css": [
+                "bootstrap.min.css",
+                "style.css"
+            ]
+        },
+        {
+            "matches": [
+                "https://*.wabco-auto.com/createasn*"
+            ],
+            "css": [
+                "bootstrap.min.css",
+                "style.css"
+            ],
+            "js": [
+                "jquery-3.6.0.js",
+                "content2.js"
+            ]
         }
     ],
     "permissions": ["storage","tabs","scripting"]
