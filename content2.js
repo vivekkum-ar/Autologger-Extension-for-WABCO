@@ -13,18 +13,19 @@ chrome.runtime.sendMessage({todo: "showPageAction"});
       document.querySelector("#ctl00_ContentPlaceHolder1_Txtcontainerno").value = 1234;
       document.querySelector("#ctl00_ContentPlaceHolder1_DropDownList2").value = "Road";
       document.getElementById("ctl00_ContentPlaceHolder1_Txtdeliverydate").value = today_plus_10;
-      document.getElementById("ctl00_ContentPlaceHolder1_DropDownList1").value = 1030;
-      let rcount=0;
-      chrome.storage.sync.get(['rcountLocal'], function(result) {
-        console.log('Value currently is ' + result.rcountLocal);
-        rcount=result.rcountLocal;
-      });
+      // document.getElementById("ctl00_ContentPlaceHolder1_DropDownList1").value = 1030;
+      // let rcount=0;
+      // chrome.storage.sync.get(['rcountLocal'], function(result) {
+      //   console.log('Value currently is ' + result.rcountLocal);
+      //   rcount=result.rcountLocal;
+      // });
       
-      if(rcount==0 || rcount==1){
-      document.getElementById("ctl00_ContentPlaceHolder1_DropDownList1").dispatchEvent(new Event('change'));
-      rcount=rcount+1;
-      chrome.storage.sync.set({"rcountLocal": 1}, function() {
-        console.log('Value is set to ' + 1);
-      });
+      if(document.getElementById("ctl00_ContentPlaceHolder1_DropDownList1").value != 1030){
+        document.getElementById("ctl00_ContentPlaceHolder1_DropDownList1").dispatchEvent(new Event('change'));
+      // rcount=rcount+1;
+      // chrome.storage.sync.set({"rcountLocal": 1}, function() {
+      //   console.log('Value is set to ' + 1);
+      // });
     }
+    document.getElementById("ctl00_ContentPlaceHolder1_DropDownList1").value = 1030;
   })();

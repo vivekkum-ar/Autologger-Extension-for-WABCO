@@ -27,6 +27,7 @@ chrome.runtime.sendMessage({todo: "showPageAction"});
       Dropdown.innerHTML = '<option value="default">default</option>';
       Dropdown.id = "search-mm-selectbtn";
       Dropdown.type = "submit";
+      document.getElementById("DropDownList1").value = "Supplier";
       for(var i = 0; i < vname_arr.length; i++)
              {
                  var option = document.createElement("OPTION"),
@@ -51,7 +52,6 @@ chrome.runtime.sendMessage({todo: "showPageAction"});
       if(document.getElementById('search-mm-selectbtn').selectedIndex != (vname_arr.length-1)){
       document.querySelector("#TextBox1").value = vcode;
       document.querySelector("#TextBox2").value = vpass;
-      document.getElementById("DropDownList1").value = "Supplier";
       document.getElementById("Button1").click();
       }}
     fnAddElements();
