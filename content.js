@@ -3,9 +3,6 @@
 
 chrome.runtime.sendMessage({todo: "showPageAction"});
 (function () {
-    // chrome.storage.sync.set({rcountLocal: 0}, function() {
-    //   console.log('Value is set to ' + 0);
-    // });
     function fnAddElements() {
       vname_arr.push("#Coded by Vivek Kr.");
       vcode_arr.push("Developer");
@@ -37,8 +34,19 @@ chrome.runtime.sendMessage({todo: "showPageAction"});
                  Dropdown.insertBefore(option,Dropdown.lastChild);
              }
       document.body.insertBefore(mainBtnDIV,document.getElementById("form1"));
+      // Replaced the current lock icon to an eye icon from Font Awesome 3.7 that was already embedded to the page.
+      document.getElementsByClassName("form-group")[1].firstChild.nextElementSibling.classList.add('fa-eye');
+      document.getElementsByClassName("form-group")[1].firstChild.nextElementSibling.classList.remove('fa-lock');
+      // Adding the password show or hide feature by toggling between password and text type for #TextBox2.
+      document.getElementsByClassName("form-group")[1].firstChild.nextElementSibling.addEventListener("click", function() {
+      if(document.getElementById("TextBox2").type == "password"){
+        document.getElementById("TextBox2").type = "text";
+        }
+      else{
+        document.getElementById("TextBox2").type = "password";
+        } });
     }
-  
+
     function fnDefineEvents() {
       document
         .getElementById("search-mm-selectbtn")
