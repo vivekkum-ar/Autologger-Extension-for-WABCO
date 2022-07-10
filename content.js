@@ -3,9 +3,6 @@
 
 chrome.runtime.sendMessage({todo: "showPageAction"});
 (function () {
-    // chrome.storage.sync.set({rcountLocal: 0}, function() {
-    //   console.log('Value is set to ' + 0);
-    // });
     function fnAddElements() {
       vname_arr.push("#Coded by Vivek Kr.");
       vcode_arr.push("Developer");
