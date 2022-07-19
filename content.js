@@ -6,7 +6,22 @@ chrome.runtime.sendMessage({todo: "showPageAction"});
     function fnAddElements() {
       vname_arr.push("#Coded by Vivek Kr.");
       vcode_arr.push("Developer");
-      var mainBtnDIV = document.createElement("div"); 
+      /**================================================================================================
+       *!                  Adding Show/Hide password feature and increasing icon size
+       *================================================================================================**/
+       document.getElementsByClassName("fa")[0].style.fontSize = "20px";
+       document.getElementsByClassName("fa")[1].style.fontSize = "20px";
+       document.getElementsByClassName("form-group")[1].firstChild.nextElementSibling.classList.add('fa-eye');
+       document.getElementsByClassName("form-group")[1].firstChild.nextElementSibling.classList.remove('fa-lock');
+       document.getElementsByClassName("form-group")[1].firstChild.nextElementSibling.addEventListener("click", function() {
+         if(document.getElementById("TextBox2").type == "password"){
+       document.getElementById("TextBox2").type = "text";
+       }
+         else{
+         document.getElementById("TextBox2").type = "password";
+       }
+       });
+       var mainBtnDIV = document.createElement("div"); 
       mainBtnDIV.id = "search-mm-selectbtn-div";
       mainBtnDIV.classList.add("container", "justify-content-end", "d-flex", "align-items-end", "flex-column");
       var label_DIV = document.createElement("div");
