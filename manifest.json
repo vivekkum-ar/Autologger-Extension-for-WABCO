@@ -30,8 +30,9 @@
             "matches": [
                 "https://*.wabco-auto.com/createasn*"
             ],
-            "css": "style.css"
-            ,
+            "css": [
+                "style.css"
+            ],
             "js": [
                 "jquery-3.6.0.js",
                 "content2.js"
